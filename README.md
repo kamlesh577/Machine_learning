@@ -1,2 +1,2 @@
-# Machinne_learning
+# Machine_learning
 This repository contains machine learning tutorials
