@@ -31,8 +31,13 @@ Least Square “Linear Regression” is a statistical method to regress the data
 Simple linear regression is a type of regression analysis where the number of independent variables is one and there is a linear relationship between the independent(x) and dependent(y) variable. The red line in the above graph is referred to as the best fit straight line. Based on the given data points, we try to plot a line that models the points the best. The line can be modelled based on the linear equation shown below.
 ### Linear Equation   y = mx+c      
 
-The motive of the linear regression algorithm is to find the best values for m and c . Before moving on to the algorithm, let’s have a look at two important concepts you must know to better understand linear regression.
+## Linear regression using Single variable 
 
+https://github.com/kamlesh577/Machine_learning/blob/master/Linear_regression.ipynb
+
+## Linear regression using multiple variable
+
+https://github.com/kamlesh577/Machine_learning/blob/master/linear_regression_with_multiple_variable.ipynb
 
 
 
